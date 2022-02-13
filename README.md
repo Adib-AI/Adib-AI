@@ -30,6 +30,14 @@ Jika ingin mengenal aku lebih dalam, bisa menghubungi sosial media ku dibawah in
 * [Instagram](https://www.instagram.com/ai_istiqlal/)
 * [Linkedin](https://www.linkedin.com/in/adib-ahmad-769a511a4/)
 
+
+<p align="left">
+<a href="https://github.com/Adib-AI">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adib-AI&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adib-AI&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 <!--
 **Adib-AI/Adib-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
