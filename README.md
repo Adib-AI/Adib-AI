@@ -1,5 +1,35 @@
 ### Hi there 👋
 
+Adib Ahmad Istiqlal, Ya... itu nama ku. Seorang mahasiswa tingkat akhir di salah satu Universitas di Malang dengan jurusan Teknik Informatika.
+Aku berasal dari pulau Kalimantan, tepatnya Kalimantan Timur.
+Aku adalah seorang bocah ingusan yang saat ini berusaha untuk berguna bagi negeri ini dengan jalan yang aku sangat sukai.
+Aku menyukai beberapa hal lain, 
+ * Angka
+ * Analisis Sekitar ku
+ * Matematikaa
+ * Bereksperimen
+Dari hal yang suka itu, aku menyukai namanya ilmu Data Science. Ilmu yang berisi algoritma-algoritma dan data-data unstructured yang diolah menjadi data terstruktur.
+Terdapat project-project yang pernah saya kerja berkaitan dengan ilmu yang sangat sukai ini. Terdapat pada repository ku yang bernama [Data_Science](https://github.com/Adib-AI/Data_Science)
+
+Saya juga mendalami ilmu data science ini, saya pernah mengikuti BootCamp dari,
+* DQLAB
+* DTS Pro Data Analisis By Kominfo
+* Bangkit By Google, GoTo, Traveloka (Sedang Mengikuti)
+
+Saat ini saya mendalami programming Language
+* SQL
+* NO-SQL
+* Python
+* R
+
+Aplikasi yang dalami untuk membuat Visualisasi adalah :
+* Tableau
+* Google Data Studio
+
+Jika ingin mengenal aku lebih dalam, bisa menghubungi sosial media ku dibawah ini ya
+* [Instagram](https://www.instagram.com/ai_istiqlal/)
+* [Linkedin](https://www.linkedin.com/in/adib-ahmad-769a511a4/)
+
 <!--
 **Adib-AI/Adib-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
