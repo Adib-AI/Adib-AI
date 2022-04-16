@@ -18,7 +18,6 @@ Saya juga mendalami ilmu data science ini, saya pernah mengikuti BootCamp dari,
 
 Saat ini saya mendalami programming Language
 * SQL
-* NO-SQL
 * Python
 * R
 
