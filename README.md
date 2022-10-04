@@ -1,7 +1,7 @@
 # Adib Ahmad Istiqlal
 ### Hi there 👋
 
-Adib Ahmad Istiqlal, Ya... itu nama ku. Seorang mahasiswa tingkat akhir di salah satu Universitas di Malang dengan jurusan Teknik Informatika.
+Adib Ahmad Istiqlal, Ya... itu nama ku. Seorang lulusan baru di salah satu Universitas di Malang dengan jurusan Teknik Informatika.
 Aku berasal dari pulau Kalimantan, tepatnya Kalimantan Timur.
 Aku adalah seorang bocah ingusan yang saat ini berusaha untuk berguna bagi negeri ini dengan jalan yang aku sangat sukai.
 Aku menyukai beberapa hal lain, 
