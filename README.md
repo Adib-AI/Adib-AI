@@ -15,7 +15,8 @@ Terdapat project-project yang pernah saya kerja berkaitan dengan ilmu yang sanga
 Saya juga mendalami ilmu data science ini, saya pernah mengikuti BootCamp dari,
 * DQLAB
 * DTS Pro Data Analisis By Kominfo
-* Bangkit By Google, GoTo, Traveloka (Sedang Mengikuti)
+* Bangkit By Google, GoTo, Traveloka
+* Google Data Analytics Proffesional
 
 Saat ini saya mendalami programming Language
 * SQL
