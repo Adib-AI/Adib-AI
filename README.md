@@ -16,7 +16,7 @@ Saya juga mendalami ilmu data science ini, saya pernah mengikuti BootCamp dari,
 * DQLAB
 * DTS Pro Data Analisis By Kominfo
 * Bangkit By Google, GoTo, Traveloka
-* Google Data Analytics Proffesional
+* Google Data Analytics Professional
 
 Saat ini saya mendalami programming Language
 * SQL
