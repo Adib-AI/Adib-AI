@@ -29,6 +29,10 @@ Aplikasi yang dalami untuk membuat Visualisasi adalah :
 * Tableau
 * Google Data Studio
 
+Terdapat beberapa repositori tentang data science disini.
+1. Data_Science (Ini beberapa projek yang pernah saya lakukan
+2. Selanjutnya terdiri dari per 1 repositori untuk tiap projek (Seperti Predictive Analytics, Time Forecasting, Clustering)
+
 Jika ingin mengenal aku lebih dalam, bisa kepoin sosial media ku dibawah ini ya
 * [Instagram](https://www.instagram.com/ai_istiqlal/)
 * [Linkedin](https://www.linkedin.com/in/adib-ahmad-769a511a4/)
