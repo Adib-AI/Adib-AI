@@ -28,7 +28,7 @@ Aplikasi yang dalami untuk membuat Visualisasi adalah :
 * Tableau
 * Google Data Studio
 
-Jika ingin mengenal aku lebih dalam, bisa menghubungi sosial media ku dibawah ini ya
+Jika ingin mengenal aku lebih dalam, bisa kepoin sosial media ku dibawah ini ya
 * [Instagram](https://www.instagram.com/ai_istiqlal/)
 * [Linkedin](https://www.linkedin.com/in/adib-ahmad-769a511a4/)
 
