@@ -1,4 +1,4 @@
-# Data Science
+# Adib Ahmad Istiqlal
 ### Hi there 👋
 
 Adib Ahmad Istiqlal, Ya... itu nama ku. Seorang mahasiswa tingkat akhir di salah satu Universitas di Malang dengan jurusan Teknik Informatika.
