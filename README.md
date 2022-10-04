@@ -10,7 +10,7 @@ Aku menyukai beberapa hal lain,
  * Matematikaa
  * Bereksperimen
 Dari hal yang suka itu, aku menyukai namanya ilmu Data Science. Ilmu yang berisi algoritma-algoritma dan data-data unstructured yang diolah menjadi data terstruktur.
-Terdapat project-project yang pernah saya kerja berkaitan dengan ilmu yang sangat sukai ini. Terdapat pada repository ku yang bernama [Data_Science](https://github.com/Adib-AI/Data_Science)
+Terdapat project-project yang pernah saya kerja berkaitan dengan ilmu yang sangat sukai ini. Terdapat pada repository ku yang bernama [Data_Science](https://github.com/Adib-AI/Data_Science) dan repositori yang lainnya
 
 Saya juga mendalami ilmu data science ini, saya pernah mengikuti BootCamp dari,
 * DQLAB
