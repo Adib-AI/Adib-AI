@@ -20,9 +20,10 @@ Saya juga mendalami ilmu data science ini, saya pernah mengikuti BootCamp dari,
 
 Saat ini saya mendalami programming Language
 * SQL
-* NO-SQL
 * Python
-* R
+* Machine Learning
+* Airflow Apache
+* Visualisasi
 
 Aplikasi yang dalami untuk membuat Visualisasi adalah :
 * Tableau
@@ -31,6 +32,7 @@ Aplikasi yang dalami untuk membuat Visualisasi adalah :
 Jika ingin mengenal aku lebih dalam, bisa kepoin sosial media ku dibawah ini ya
 * [Instagram](https://www.instagram.com/ai_istiqlal/)
 * [Linkedin](https://www.linkedin.com/in/adib-ahmad-769a511a4/)
+* [Website](https://adibahmadistiqlal2.wixsite.com/my-site-1)
 
 
 <p align="left">
