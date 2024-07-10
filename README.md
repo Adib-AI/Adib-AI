@@ -22,12 +22,12 @@ Saat ini saya mendalami programming Language
 * SQL
 * Python
 * Machine Learning
-* Airflow Apache
-* Visualisasi
+* Deep Learning
 
 Aplikasi yang dalami untuk membuat Visualisasi adalah :
 * Tableau
 * Google Data Studio
+* Microsoft Excel
 
 Terdapat beberapa repositori tentang data science disini.
 1. Data_Science (Ini beberapa projek yang pernah saya lakukan
